@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: foo
+    Page: Home Page
   </div>
 </template>
 
