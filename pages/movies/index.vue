@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    Page: Movies
+    Page: Movies change
   </div>
 </template>
 
