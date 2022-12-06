@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Hello Vue School
   </div>
 </template>
